@@ -1,4 +1,4 @@
-<p align="center"><img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnet-analyst-programmer-brussels-hybrid-12-months-finlay-chacksfield&psig=AOvVaw3LtyDRJKTEsIlhalpWGdSt&ust=1706149573388000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjvtsz89IMDFQAAAAAdAAAAABAD' alt="coder" width="300" height="200" margin="auto" display="block"/></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnet-analyst-programmer-brussels-hybrid-12-months-finlay-chacksfield&psig=AOvVaw07ObOqtqsEQ3XEeTLHaGgX&ust=1706668241267000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDEwOSIhIQDFQAAAAAdAAAAABAE" alt="coder" width="300" height="200" margin="auto" display="block"/></p>
 <h1 align="center">Hi 👋, I'm Dhanushka Rathnayaka</h1>
 <h3 align="center">"From Pixels to Perfection: Crafting Web Wonders with React ⚛️✨"</h3>
 
