@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhanushka Rathnayaka</h1>
 <h3 align="center">"From Pixels to Perfection: Crafting Web Wonders with React ⚛️✨"</h3>
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/s/WLWj5l)
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/scrapesavvy)
 
 - 🌱 I’m currently learning **Next js**
 
