@@ -5,7 +5,7 @@
 <h3 align="center">"From Pixels to Perfection: Crafting Web Wonders with React ⚛️✨"</h3>
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/scrapesavvy) and [Upwork](https://www.upwork.com/freelancers/~01386d08f6baa0d69c?mp_source=share).  
-- 🌱 I’m currently learning **Next.js** while refining my skills in the **MERN stack**.
+- 🌱 I’m currently learning **Next.js** & **Dart** while refining my skills in the **MERN stack**.
 - 🐍 I am proficient in **Python**, and I integrate **Firebase** for backend solutions.
 - 📫 How to reach me: **pdhanushka856@gmail.com**
 - ⚡ Fun fact: **Every cup of coffee fuels not just my late-night coding sessions but also my creativity. #CodeAndCoffee ☕️**  
