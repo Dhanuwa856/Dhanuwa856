@@ -48,8 +48,8 @@
 
 ## 💌 Let's Connect
 
-* 📫 **Email:** [pdhanushka856@gmail.com](mailto:pdhanushka856@gmail.com)
-* 🔗 **LinkedIn:** [Dhanushka Rathnayaka](https://www.linkedin.com/in/your-linkedin)
+* 📫 **Email:** [infoname259@gmail.com](mailto:infoname259@gmail.com)
+* 🔗 **LinkedIn:** [Dhanushka Rathnayaka](https://www.linkedin.com/in/dhanushka-rathnayaka-9b5125321/)
 * ☕ **Support me:** [Buy Me A Coffee](https://buymeacoffee.com/dhanuwa)
 
 ---
