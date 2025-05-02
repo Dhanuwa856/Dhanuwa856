@@ -1,35 +1,57 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" alt="coder" width="300" height="200" margin="auto" display="block"/>
-</p>
-<h1 align="center">Hi 👋, I'm Dhanushka Rathnayaka</h1>
-<h3 align="center">"From Pixels to Perfection: Crafting Web Wonders with React ⚛️✨"</h3>
-
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/scrapesavvy) and [Upwork](https://www.upwork.com/freelancers/~01386d08f6baa0d69c?mp_source=share).  
-- 🌱 I’m currently learning **AI development using Python** while refining my skills in the **MERN stack**.
-- 🐍 I am proficient in **Python**, and I integrate **Firebase** for backend solutions.
-- 📫 How to reach me: **pdhanushka856@gmail.com**
-- ⚡ Fun fact: **Every cup of coffee fuels not just my late-night coding sessions but also my creativity. #CodeAndCoffee ☕️**  
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="50" height="50"/> </a>
+  <img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" alt="code wizard" width="300" height="200" style="display:block; margin:auto; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"/>
 </p>
 
-<h3 align="center">My Statistics:</h3>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#1DA1F2;">Dhanushka Rathnayaka</span> 👋</h1>
+
+<p align="center" style="font-size:1.1em;">"Turning caffeine ☕️ into code 🖥️ and ideas into immersive web experiences ✨"</p>
+
+---
+
+## 🎯 About Me
+
+* 🔭 **Current Gigs:** Crafting pixel-perfect solutions on [Fiverr](https://www.fiverr.com/scrapesavvy) & [Upwork](https://www.upwork.com/freelancers/~01386d08f6baa0d69c)
+* 🌱 **Learning Path:**
+
+  * **AI Development** with Python 🤖
+  * Deep diving into state-of-the-art React patterns ⚛️
+  * Leveling up DevOps & CI/CD pipelines 🔧
+* 🎓 **Education:** Self-taught full-stack wizard (MERN) with a passion for continuous learning
+* ⚡ **Fun Fact:** I’ve coded wild side projects like a **virtual plant watering system** and a **coffee-loyalty bot** ☕️🤖
+
+## 🛠️ Tech Arsenal
+
 <p align="center">
-  
-| ![Dhanuwa's github stats](https://github-readme-stats.vercel.app/api?username=dhanuwa856&show_icons=true&theme=tokyonight) | ![Dhanuwa GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanuwa856&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanuwa856&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dhanuwa856&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" title="React"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" title="JavaScript"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" title="Node.js"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" title="Python"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" title="Firebase"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48" title="Tailwind CSS"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="48" height="48" title="Next.js"/>
 </p>
+
+## 🚀 Featured Projects
+
+| Project                   | Description                                                      | Live Demo                                                     |
+| :------------------------ | :--------------------------------------------------------------- | :------------------------------------------------------------ |
+| 🌐 **Portfolio**          | My personal playground showcasing projects, blog snippets & more | [View Site](https://dhanushkarathnayakaportfolio.vercel.app/) |
+| 🛍️ **E-Commerce App**    | Full-stack MERN store with Stripe & Firebase auth                | *Coming Soon!*                                                |
+| 🤖 **Coffee Loyalty Bot** | Telegram bot rewards caffeine lovers with points                 | [Try It](https://t.me/coffee_loyalty_bot)                     |
+
+## 📊 GitHub Chronicles
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanuwa856&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanuwa856&theme=tokyonight&hide_title=true" alt="Streak Stats"/>
+</p>
+
+## 💌 Let's Connect
+
+* 📫 **Email:** [pdhanushka856@gmail.com](mailto:pdhanushka856@gmail.com)
+* 🔗 **LinkedIn:** [Dhanushka Rathnayaka](https://www.linkedin.com/in/your-linkedin)
+* ☕ **Support me:** [Buy Me A Coffee](https://buymeacoffee.com/dhanuwa)
+
+---
+
+<p align="center">Made with ❤️ and JavaScript ✨</p>
