@@ -29,11 +29,8 @@ I'm passionate about building complex, real-world applications and exploring the
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-
 <img src="https://github.com/Dhanuwa856/Dhanuwa856/raw/output/github-contribution-grid-snake.svg" />
 
-</div>
 
 > ⚠️ **Snake animation works after enabling GitHub Action once**  
 > (I’ll explain how below)
