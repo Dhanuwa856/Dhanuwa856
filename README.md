@@ -28,12 +28,9 @@ While building a strong IT foundation, I'm on a continuous self-learning journey
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dhanuwa856&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://streak-stats.demolab.com?user=Dhanuwa856&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
-      <td align="center">
-      <img src="https://raw.githubusercontent.com/Dhanuwa856/Dhanuwa856/output/dist/github-contribution-grid-snake.svg" />
-      </td>
-    </tr>
+    
   </table>
 </div>
 
@@ -42,7 +39,7 @@ While building a strong IT foundation, I'm on a continuous self-learning journey
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/Dhanuwa856/Dhanuwa856/raw/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+ <img src="https://github.com/Dhanuwa856/Dhanuwa856/raw/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
