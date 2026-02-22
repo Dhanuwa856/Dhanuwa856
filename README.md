@@ -31,7 +31,7 @@ While building a strong IT foundation, I'm on a continuous self-learning journey
         <img src="https://github-readme-stats.vercel.app/api?username=Dhanuwa856&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com?user=Dhanuwa856&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://raw.githubusercontent.com/Dhanuwa856/Dhanuwa856/output/dist/github-contribution-grid-snake.svg" />
       </td>
     </tr>
   </table>
