@@ -25,13 +25,10 @@ While building a strong IT foundation, I'm on a continuous self-learning journey
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=Dhanuwa856&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    
-  </table>
+
+  <img src="https://streak-stats.demolab.com?user=Dhanuwa856&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak" />
+
 </div>
 
 ---
